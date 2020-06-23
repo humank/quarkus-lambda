@@ -1,0 +1,25 @@
+{
+  "name": "Bill",
+  "greeting": "Hello",
+  "offsetDateTime": {
+    "offset": {
+      "totalSeconds": 28800,
+      "id": "+08:00",
+      "rules": {
+        "fixedOffset": true,
+        "transitions": [],
+        "transitionRules": []
+      }
+    },
+    "month": "JUNE",
+    "dayOfWeek": "TUESDAY",
+    "dayOfYear": 175,
+    "nano": 674103000,
+    "year": 2020,
+    "monthValue": 6,
+    "dayOfMonth": 23,
+    "hour": 14,
+    "minute": 59,
+    "second": 25
+  }
+}
